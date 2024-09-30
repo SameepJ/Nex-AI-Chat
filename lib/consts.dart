@@ -1,1 +1,1 @@
-const String OPENAI_API_KEY = "AIzaSyACo7iMWmTINZEVLPSV008lA_GX_L-pWnc";
+const String OPENAI_API_KEY = "";
